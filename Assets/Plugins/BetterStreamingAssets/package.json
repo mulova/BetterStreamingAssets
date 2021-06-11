@@ -1,0 +1,12 @@
+
+{
+	"name": "BetterStreamingAssets",
+	"displayName": "BetterStreamingAssets",
+	"version": "1.0.0",
+	"unity": "2018.1",
+	"description": "BetterStreamingAssets",
+	"keywords": ["BetterStreamingAssets", "BSA"],
+	"category": "BetterStreamingAssets",
+	"dependencies": {
+	}
+}
